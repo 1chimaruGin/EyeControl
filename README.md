@@ -1,6 +1,7 @@
 # <div align="center">Eye Control</div>
 <div align="center">
   <p> Control the mouse with eyes </p>
+ 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/1chimaruGin/EyeControl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/1chimaruGin/EyeControl/alerts/)
 
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/1chimaruGin/EyeControl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/1chimaruGin/EyeControl/context:python)
