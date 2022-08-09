@@ -1,10 +1,14 @@
 # <div align="center">Eye Control</div>
+<div align="center">
+  <p> Control the mouse with eyes </p>
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/1chimaruGin/EyeControl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/1chimaruGin/EyeControl/alerts/)
+
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/1chimaruGin/EyeControl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/1chimaruGin/EyeControl/context:python)
+</div>
 
 <!-- <div align="center">
 <p>Multi-Object Tracking with YOLOv5 and Norfair tracker</p>
-<p>
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/1chimaruGin/EyeControl.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/1chimaruGin/EyeControl/alerts/)
-</p>
+
 <p>
 <img src="images/car.gif" width="270"/> <img src="images/race.gif" width="270"/> 
 </p>
